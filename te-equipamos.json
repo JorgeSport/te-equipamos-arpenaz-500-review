@@ -1,0 +1,29 @@
+{
+  "brand": "Te Equipamos",
+  "items": [
+    {
+      "active": true,
+      "type": "review",
+      "sections": [
+        "Reviews",
+        "Ofertas",
+        "Ventas"
+      ],
+      "title": "Piel, EVA y tacos de 4 mm: una zapatilla de senderismo más seria de lo que parece",
+      "summary": "Review de la Quechua Arpenaz 500 sobre comodidad, agarre, protección y el terreno donde realmente tiene sentido.",
+      "details": "Análisis propio que termina mostrando la oferta disponible de Te Equipamos.",
+      "image": "https://contents.mediadecathlon.com/p3017101/k$93805943e2c99c1d35e764c266909253/picture.jpg?f=1600x0&format=auto",
+      "time": "Review · Calzado",
+      "score": 93,
+      "featured": true,
+      "direct": true,
+      "tags": [
+        "senderismo",
+        "calzado",
+        "quechua",
+        "piel"
+      ],
+      "url": "https://jorgesport.github.io/te-equipamos-arpenaz-500-review/"
+    }
+  ]
+}
