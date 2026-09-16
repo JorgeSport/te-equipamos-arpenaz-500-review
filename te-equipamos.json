@@ -1,22 +1,47 @@
 {
   "brand": "Te Equipamos",
-  "schema_version": 2,
+  "schema_version": 3,
   "items": [
     {
       "active": true,
       "type": "review",
-      "sections": ["Reviews", "Ventas"],
-      "activities": ["senderismo", "travel", "urbano"],
+      "sections": [
+        "Reviews",
+        "Ventas"
+      ],
+      "activities": [
+        "senderismo",
+        "travel",
+        "urbano"
+      ],
       "product_type": "zapatillas",
-      "title": "Quechua Arpenaz 500 Revival: Senderismo · Travel · Urbano",
-      "summary": "Arpenaz 500 Revival: 70% cuero bovino, amortiguación EVA, tacos de 4 mm y una propuesta polivalente para senderismo, travel y uso urbano casual.",
-      "details": "Guía premium Te Equipamos con explicación completa, ventajas, límites, pruebas de laboratorio, dos colores, galería, tallas y precio S/339.00.",
+      "title": "Quechua Arpenaz 500 Revival: análisis para montaña y ciudad",
+      "card_title": "Arpenaz 500 Revival: ¿unas zapatillas para montaña y ciudad?",
+      "seo_title": "Quechua Arpenaz 500 Revival: análisis, precio y uso",
+      "seo_description": "Analizamos las Quechua Arpenaz 500 Revival: 70 % cuero bovino, amortiguación EVA, tacos de 4 mm y precio de S/339 para montaña, viajes y ciudad.",
+      "seo_keywords": [
+        "Quechua Arpenaz 500 Revival",
+        "zapatillas senderismo",
+        "zapatillas cuero",
+        "calzado outdoor Perú",
+        "review Arpenaz 500"
+      ],
+      "summary": "¿Sirven para montaña y ciudad? Revisamos cuero, amortiguación EVA, agarre de 4 mm, límites y precio de S/339.",
+      "details": "Guía Te Equipamos con ventajas, límites, pruebas de laboratorio, materiales, dos colores, galería, tallas y precio.",
       "image": "https://contents.mediadecathlon.com/p3017101/k$93805943e2c99c1d35e764c266909253/picture.jpg?f=1600x0&format=auto",
       "time": "Review · Calzado",
       "score": 93,
       "featured": true,
       "direct": true,
-      "tags": ["senderismo", "travel", "urbano", "calzado", "quechua", "piel", "arpenaz 500 revival"],
+      "tags": [
+        "senderismo",
+        "travel",
+        "urbano",
+        "calzado",
+        "quechua",
+        "piel",
+        "arpenaz 500 revival"
+      ],
       "url": "https://jorgesport.github.io/te-equipamos-arpenaz-500-review/"
     }
   ]
